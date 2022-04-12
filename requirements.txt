@@ -1,5 +1,5 @@
 sphinxcontrib-bibtex
 # sphinxcontrib-napoleon
 sphinxcontrib-httpdomain
-sphinxcontrib-ExcelTable
+# sphinxcontrib-exceltable
 
